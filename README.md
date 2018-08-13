@@ -1,4 +1,5 @@
 # devops-aula02
 Tom Hanks
-Robert de Niro
+Harinson Ford
 Brad Pitt
+Nicole Kidman
